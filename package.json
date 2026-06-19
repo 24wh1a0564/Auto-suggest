@@ -1,0 +1,23 @@
+{
+  "name": "auto-suggest",
+  "version": "1.0.0",
+  "description": "verfiying my git set-up",
+  "homepage": "https://github.com/24wh1a0564/Auto-suggest#readme",
+  "bugs": {
+    "url": "https://github.com/24wh1a0564/Auto-suggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24wh1a0564/Auto-suggest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
